@@ -1,4 +1,4 @@
-package com.djakapermana.deteksipenyakitlele;
+package com.skripsi.dokterlele;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

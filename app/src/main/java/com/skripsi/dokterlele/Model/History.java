@@ -1,4 +1,4 @@
-package com.djakapermana.deteksipenyakitlele.Model;
+package com.skripsi.dokterlele.Model;
 
 import com.orm.SugarRecord;
 

@@ -1,4 +1,4 @@
-package com.djakapermana.deteksipenyakitlele;
+package com.skripsi.dokterlele;
 
 import org.junit.Test;
 

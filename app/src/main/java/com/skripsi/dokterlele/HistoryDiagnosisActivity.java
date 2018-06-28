@@ -1,4 +1,4 @@
-package com.djakapermana.deteksipenyakitlele;
+package com.skripsi.dokterlele;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -12,8 +12,8 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 
-import com.djakapermana.deteksipenyakitlele.Adapter.AdapterHistory;
-import com.djakapermana.deteksipenyakitlele.Model.History;
+import com.skripsi.dokterlele.Adapter.AdapterHistory;
+import com.skripsi.dokterlele.Model.History;
 
 import java.util.List;
 

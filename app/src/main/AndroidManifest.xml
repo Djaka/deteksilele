@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.djakapermana.deteksipenyakitlele">
+          package="com.skripsi.dokterlele">
 
     <application
-        android:name=".Helper.GeneralFunction"
+        android:name="com.skripsi.dokterlele.Helper.GeneralFunction"
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -24,11 +24,11 @@
             android:value="com.djakapermana.deteksipenyakitlele"/>
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.skripsi.dokterlele.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity
-            android:name=".SplashScreenActivity"
+            android:name="com.skripsi.dokterlele.SplashScreenActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -37,19 +37,19 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainMenu"
+            android:name="com.skripsi.dokterlele.MainMenu"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity
-            android:name=".HistoryDiagnosisActivity"
+            android:name="com.skripsi.dokterlele.HistoryDiagnosisActivity"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity
-            android:name=".AboutApps"
+            android:name="com.skripsi.dokterlele.AboutApps"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
         <activity
-            android:name=".TipsActivity"
+            android:name="com.skripsi.dokterlele.TipsActivity"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
     </application>

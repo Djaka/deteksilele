@@ -1,4 +1,4 @@
-package com.djakapermana.deteksipenyakitlele.Adapter;
+package com.skripsi.dokterlele.Adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.djakapermana.deteksipenyakitlele.R;
+import com.skripsi.dokterlele.R;
 
 import java.util.List;
 

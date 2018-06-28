@@ -1,24 +1,23 @@
-package com.djakapermana.deteksipenyakitlele;
+package com.skripsi.dokterlele;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 
-public class AboutApps extends AppCompatActivity {
+public class TipsActivity extends AppCompatActivity {
 
     Toolbar toolbar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_about_apps);
+        setContentView(R.layout.activity_tips);
 
         toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        getSupportActionBar().setTitle("Tentang App");
+        getSupportActionBar().setTitle("Tips And Trick");
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
     }
 
     @Override

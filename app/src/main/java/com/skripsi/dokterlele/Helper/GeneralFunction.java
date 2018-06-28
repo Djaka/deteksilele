@@ -1,4 +1,4 @@
-package com.djakapermana.deteksipenyakitlele.Helper;
+package com.skripsi.dokterlele.Helper;
 
 import android.content.Context;
 import android.support.multidex.MultiDex;

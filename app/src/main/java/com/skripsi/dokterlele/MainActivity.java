@@ -1,17 +1,12 @@
-package com.djakapermana.deteksipenyakitlele;
+package com.skripsi.dokterlele;
 
-import android.app.AlertDialog;
 import android.app.ProgressDialog;
-import android.content.DialogInterface;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.view.Menu;
-import android.view.MenuInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
@@ -19,18 +14,15 @@ import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.djakapermana.deteksipenyakitlele.Adapter.AdapterGejala;
-import com.djakapermana.deteksipenyakitlele.Model.History;
-import com.orm.SchemaGenerator;
-import com.orm.SugarContext;
-import com.orm.SugarDb;
+import com.skripsi.dokterlele.Adapter.AdapterGejala;
+import com.skripsi.dokterlele.Model.History;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static com.djakapermana.deteksipenyakitlele.Helper.GeneralFunction.getHari;
+import static com.skripsi.dokterlele.Helper.GeneralFunction.getHari;
 
 public class MainActivity extends AppCompatActivity {
 
