@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:background="@drawable/background_rec">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_waktu"
+        android:text="2018-02-02"
+        android:padding="5dp"
+        android:textSize="12sp"
+        android:gravity="center_vertical"
+        android:drawableLeft="@drawable/ic_date"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_penyakit"
+        android:text="Penyakit"
+        android:padding="5dp"/>
+
+
+</LinearLayout>

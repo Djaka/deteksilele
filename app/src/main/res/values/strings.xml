@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deteksi Penyakit Lele</string>
+    <string name="ket1">Keterangan:\nIni berkembang sebagai akibat serangan dari bakteri genus Aeromonas hydrophila dan Pseudomonas hydrophila. Penyakit lele yang disebabkan oleh bakteri ini menyebabkan perut ikan membengkak dan mengeluarkan cairan getah bening, luka fisik sirip dan luas. Faktor yang memicu terjadinya penyakit ini adalah penumpukan pakan sisa yang membusuk di dasar kolam.</string>
+
+    <string name="ket2">Keterangan:\nBakteri/ Kuman Trichodiniasis merupakan penyakit gatal-gatal yang disebabkan oleh jenis protozoa Trichodina. gejalanya adalah ikan terlihat lemas, warna tubuh kusam dan sering menggosok-gosokkan tubuhnya ke dinding dan dasar kolam. Penyakit ini ditularkan lele karena kontak langsung dan juga melalui perantara air. Parasit dari golongan ciliata berbentuk bulat, terkadang amuboid, serta mempunyai inti beerbentuk tapal kuda yang disebut Ichthyophthirius multifilis juga dapat memicu timbulnya penyakit ini. Kepadatan ikan yang terlalu tinggi dan kekurangan oksigen disinyalir memicu perkembangannya. Mengatur kepadatan tebar dan menjaga kualitas air. Penyakit ini bisa dihilangkan dengan merendam ikan dalam larutan formalin 40 ppm selama 12 - 24 jam.
+    </string>
+
+    <string name="ket3">Keterangan:\nJamur Penyakit ini disebabkan serangan jamur saprolegnia yang tumbuh sebagai saprofit pada jaringan tubuh ikan yang mati atau ikan yang kondisinya lemah.	Dengan memeriksa setiap ikan yang terlihat lemah ataupun mati dan memisahkan dari ikan yang masih sehat agar parasit atau jamur tidak menyebar terhadap ikan yang lain.
+    </string>
+
+    <string name="ket4">Keterangan:\nVirus herpes ini adalah penyakit yang menyerang ikan terinfeksi terlihat lemah, berenang berputar-putar, sering muncul vertikal tegak di permukaan, bagian sirip dan perut pendarahan. Faktor pemicu penyakit lele fluktuasi suhu air, degradasi kualitas air dan padat penebaran tinggi.
+    </string>
+
+    <string name="solusi1">Solusi:\nPemberian pakan yang lebih tepat dan mempertahankan suhu air 28 derajat Celcius. Atau dengan cara memberi antibiotik Oksitetrasiklin (OTC). Caranya dengan mencampurkan pakan dengan OTC, takarannya 50 mg per kg pakan. Berikan selama 7 – 10 hari.</string>
+
+    <string name="solusi2">Solusi:\nMengatur kepadatan tebar dan menjaga kualitas air. Penyakit ini bisa dihilangkan dengan merendam ikan dalam larutan formalin 40 ppm selama 12 - 24 jam.</string>
+
+    <string name="solusi3">Solusi:\nDengan memeriksa setiap ikan yang terlihat lemah ataupun mati dan memisahkan dari ikan yang masih sehat agar parasit atau jamur tidak menyebar terhadap ikan yang lain.</string>
+
+    <string name="solusi4">Solusi:\nPerbaiki manajemen budidaya, menjaga kebersihan kolam dan pemberian pakan yang berkualitas</string>
+
+    <string name="tips_header">
+        Tips merawat ikan lele yang benar harus di sesuaikan dengan umur dan pemberian makan. Perawatan ikan lele yang benar di sesuaikan dengan umur dari bibit lele, Berikut Cara pemeliharaan lele yang benar :
+    </string>
+
+    <string name="title1">
+        1. Pemeliharaan Umur 1 sampai 4 hari
+    </string>
+
+    <string name="content1">
+        Pada usia 1 sampai dengan 4 hari merupakan usia yang sangat rentan bagi bibit lele, dengan usia ini sangat rentan mati karena perubahan suhu drastis pada air. Oleh karena itu, lele dengan usia 1 sampai 4 hari harus di rawat dengan cara menjaga suhu air agar tetap stabil dan tidak sering berubah rubah. Untuk pakan nya Cukup di berikan plankton saja. Jumlah Plankton juga tidak perlu banyak, hal ini dikarenakan lele masih mempunyai cadangan makanan.
+    </string>
+
+    <string name="title2">
+        2. Pemeliharaan umur 5 sampai 15 hari
+    </string>
+
+    <string name="content2">
+        pada umur 5 sampai 15 hari cadangan makanan pada lele sudah habis, maka anda perlu memberikan nutrisi tambahan pada lele. Tips merawat ikan lele umur ini adalah dengan memberikan pakan secara rutin dua kali sehari. makanan yang di berikan adalah cacing sutra atau cacing darah. Selain makanan, air juga harus di perhatikan. Jika air kotor maka perlu di ganti dengan yang baru. Pergantian air ini tidak 100% tapi hanya 50% nya saja.
+    </string>
+
+    <string name="title3">
+        3. Pemeliharaan umur 16 sampai 25 hari.
+    </string>
+
+    <string name="content3">
+        Pembesaran ikan lele dimulai saat lele berumur 16 sampai 25 hari. Pada umur ini, Pakan lele sudah harus di ganti, yaitu pelet berbentuk serbuk. Pemberian makannya juga harus lebih sering yaitu 4 kali dalam sehari.
+Sedangkan jumlah makanan yang di berikan 30% dari jumlah ikan yang ada dalam kolam. Pada usia ini ikan lele sudah perlu dipisahkan sesuai dengan ukurannya agar kolam tidak perlu terlalu padat.
+    </string>
+
+    <string name="title4">
+        4. Pemeliharaan umur 26 sampai 30 hari
+    </string>
+
+    <string name="content4">
+        Tips merawat ikan lele umur 26 sampai dengan 30 hari adalah dengan mengganti pakannya. pakan yang di berikan bukan lagi pelet serbuk melainkan pelet F100 yang berbentuk butiran. Pelet ini diberikan pada ikan lele sebanyak 3 kali dalam sehari. ikan lele pada usia ini juga perlu untuk di pisahkan kembali guna mengurangi kepadatan dari kolam.
+    </string>
+
+    <string name="title5">
+        5. Pemeliharaan Umur 31 sampai 40 hari
+    </string>
+
+    <string name="content5">
+        Tips merawat ikan lele yang terkahir yaitu pada saat lele berumur 31 sampai 40 hari. Pada umur ini lele ukurannya tidak terlalu besar. anda perlu melakukan seleksi untuk lele yang sudah  siap di pasarkan. Pakan yang di berikan pada lele usia ini adalah pakam F999 yang merupakan pakan pelet khusus ikan lele. Seleksi ikan ini sebaiknya di lakukan pada pagi hari atau sore hari
+    </string>
+    
+</resources>
